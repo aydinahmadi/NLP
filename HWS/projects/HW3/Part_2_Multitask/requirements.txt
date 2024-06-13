@@ -1,0 +1,7 @@
+scipy
+scikit-learn
+accelerate==0.3.0
+transformers==4.10.3
+nlp==0.4.0
+nltk
+# pip install datasets "dill<0.3.5"
